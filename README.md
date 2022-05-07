@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Aryan Parihar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushar0305&label=Profile%20views&color=0e75b6&style=flat" alt="tushar0305" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arryyaann10&label=Profile%20views&color=0e75b6&style=flat" alt="arryyaann10" /> </p>
 
 - 🔭 I’m currently working on **a startup project.**
 
